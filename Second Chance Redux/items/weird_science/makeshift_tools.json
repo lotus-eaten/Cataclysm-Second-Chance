@@ -1,0 +1,32 @@
+[
+  {
+    "id": "chemistry_set_weirdscience",
+    "type": "TOOL",
+    "category": "tools",
+    "name": { "str": "Mad Scientist's Lab Kit" },
+    "description": "This is a chemistry set stored in a box.  The contents include glass containers, hoses, metal wire, a hotplate, safety glasses, a homemade microcentrifuge, metal containers, a fractional distillation apparatus AND a regular still. Of course, such a massive kit isn't easily lugged around, so it's likely better set up in your evil lair.",
+    "weight": "10000 g",
+    "volume": "10000 ml",
+    "price": "200 USD",
+    "price_postapoc": "10 USD",
+    "to_hit": -5,
+    "bashing": 2,
+    "material": [ "glass", "cotton" ],
+    "symbol": ";",
+    "color": "light_gray",
+    "ammo": "battery",
+    "sub": "hotplate",
+    "charges_per_use": 1,
+    "qualities": [ [ "FINE_DISTILL", 1 ], [ "DISTILL", 5 ], [ "CONCENTRATE", 1 ], [ "SEPARATE", 1 ], [ "CHEM", 3 ], [ "BOIL", 1 ] ],
+    "use_action": "HOTPLATE",
+    "magazines": [
+      [
+        "battery",
+        [ "medium_battery_cell", "medium_plus_battery_cell", "medium_atomic_battery_cell", "medium_disposable_cell" ]
+      ]
+    ],
+    "magazine_well": "500 ml"
+  }
+  
+  
+]

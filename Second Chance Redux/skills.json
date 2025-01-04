@@ -2,7 +2,7 @@
   {
     "type": "skill",
     "id": "crackhead_engineering",
-    "name": { "str": "crackhead engineering" },
+    "name": { "str": "Crackhead Engineering" },
     "description": "Your skills in creation and use of various things, though mostly guns, that saner individuals find unnatural. Despite seeming to defy all laws of reality, things made with this skill, just, work.",
     "tags": [ "combat_skill" ],
     "time_to_attack": { "min_time": 30, "base_time": 100, "time_reduction_per_level": 7 },
@@ -14,8 +14,8 @@
   {
     "type": "skill",
     "id": "science_weird",
-    "name": { "str": "weird science" },
-    "description": "Plastic tubes and pots and pans, Bits and pieces and the magic from the hand. A mix of chemistry, electronics, and mechanics that delve a bit deeper into esoteric oddities, as well as some more inherently outlandish fields of specialization like cryptozoology.",
+    "name": { "str": "Weird Science" },
+    "description": "Plastic tubes and pots and pans, Bits and pieces and the magic from the hand. A mix of chemistry, electronics, and mechanics that delve a bit deeper into esoteric oddities, as well as some more inherently outlandish fields of specialization like cryptozoology. The skill also affects use of weapons crafted through it.",
     "tags": [ "combat_skill" ],
     "time_to_attack": { "min_time": 30, "base_time": 100, "time_reduction_per_level": 7 },
     "companion_survival_rank_factor": 1,

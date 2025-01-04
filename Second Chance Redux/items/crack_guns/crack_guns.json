@@ -15,6 +15,7 @@
     "bashing": 3,
     "material": [ "steel" ],
     "color": "brown",
+	"skill": "crackhead_engineering",
     "ammo": "50",
     "dispersion": 620,
     "durability": 5,
@@ -40,13 +41,14 @@
     "copy-from": "pistol_base",
     "type": "GUN",
     "name": { "str": "Gluger" },
-    "description": "A horrific weapon, someone, somehow, got the upper of a luger and lower of a glock 19, and put the two together. (If you crafted this before I added proper gun parts, dont worry, soon it'll make more sense, I just have to decide HOW I'm adding gun parts)",
+    "description": "A horrific weapon, someone, somehow, got the upper of a luger and lower of a glock 19, and put the two together. (Modder note: If you crafted this before I added proper gun parts, dont worry, soon it'll make more sense, I just have to decide HOW I'm adding gun parts)",
     "weight": "700 g",
     "volume": "500 ml",
     "price": 69000,
     "price_postapoc": 2500,
     "to_hit": -2,
     "ascii_picture": "glock_19",
+	"skill": "crackhead_engineering",
 	"weapon_category": [ "PISTOLS" ],
     "material": [ "plastic", "steel" ],
     "color": "dark_gray",
@@ -58,6 +60,42 @@
     "magazine_well": "250 ml",
     "magazines": [ [ "9mm", [ "glockmag", "glockbigmag", "glock17_17", "glock17_22", "glock_drum_50rd", "glock_drum_100rd" ] ] ]
   },
+  
+  
+  {
+    "id": "pepperbox_crack",
+    "copy-from": "pistol_revolver",
+    "type": "GUN",
+    "name": { "str_sp": "Pepper Mill" },
+    "description": "A large, heavy handmade pepperbox revolver chambered in .44 Magnum. It has a weird quirk where, depending on how the gun is held, and trigger pulled, it can intentionally chainfire all six chambers in a violent display of disrespect to the user's wrists.",
+    "weight": "1867 g",
+    "volume": "950 ml",
+    "barrel_length": "100 ml",
+    "price": "861 USD",
+    "price_postapoc": "2750 cent",
+    "bashing": 12,
+    "material": [ "steel", "wood" ],
+    "color": "dark_gray",
+    "ammo": "44",
+	"skill": "crackhead_engineering",
+	"weapon_category": [ "PISTOLS" ],
+    "ranged_damage": { "damage_type": "bullet", "amount": -2 },
+	"modes": [ [ "DEFAULT", "semi", 1 ], [ "AUTO", "chainfire", 6 ] ],
+    "dispersion": 480,
+    "blackpowder_tolerance": 56,
+    "valid_mod_locations": [
+      [ "accessories", 2 ],
+      [ "barrel", 1 ],
+      [ "bore", 1 ],
+      [ "grip", 1 ],
+      [ "mechanism", 4 ],
+      [ "rail", 1 ],
+      [ "sights", 1 ],
+      [ "stock", 1 ],
+      [ "underbarrel", 1 ]
+    ]
+  },
+  
   
   {
     "id": "grip_tacsac",
@@ -86,6 +124,8 @@
     "handling_modifier": 20,
     "flags": [ "PUMP_RAIL_COMPATIBLE" ]
   }
+  
+  
   
   
   

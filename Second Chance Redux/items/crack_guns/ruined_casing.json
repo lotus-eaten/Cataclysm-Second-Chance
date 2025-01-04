@@ -1,0 +1,12 @@
+[
+   {
+    "id": "45_casing_ruined",
+    "copy-from": "casing",
+    "looks_like": "9mm_casing",
+    "type": "GENERIC",
+    "name": { "str": "ruined .45 ACP casing" },
+    "description": "An empty casing from a .45 ACP round, destroyed by the extreme pressure of a reality-defying round.",
+    "weight": "4 g",
+    "volume": "6ml"
+  }
+]
