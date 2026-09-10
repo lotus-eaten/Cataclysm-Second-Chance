@@ -155,23 +155,6 @@
         "menu_text": "Turn off flashlight",
         "type": "transform"
       }
-    ],
-    "flags": [
-      "WATCH",
-      "WATER_FRIENDLY",
-      "BELTED",
-      "STURDY",
-      "ALLOWS_NATURAL_ATTACKS",
-      "OVERSIZE",
-      "LIGHT_20",
-      "CHARGEDIM",
-      "TRADER_AVOID",
-      "ALARMCLOCK",
-      "USE_UPS",
-      "NO_UNLOAD",
-      "NO_RELOAD",
-      "THERMOMETER",
-      "FANCY"
     ]
   }
 ]
