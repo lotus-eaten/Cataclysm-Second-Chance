@@ -11,7 +11,7 @@
     "material": [ "cotton" ],
     "weight": "514 g",
     "volume": "500 ml",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 2 ] ],
     "category": "other"
   },
   
@@ -28,7 +28,7 @@
     "material": [ "cotton" ],
     "weight": "514 g",
     "volume": "1 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
 
@@ -45,7 +45,7 @@
     "material": [ "wool" ],
     "weight": "514 g",
     "volume": "1 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -62,7 +62,7 @@
     "material": [ "cotton" ],
     "weight": "514 g",
     "volume": "500 ml",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 1 ] ],
     "category": "other"
   },
   
@@ -79,7 +79,7 @@
     "material": [ "cotton" ],
     "weight": "514 g",
     "volume": "250 ml",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
 
@@ -97,7 +97,7 @@
     "material": [ "cotton" ],
     "weight": "4534 g",
     "volume": "300 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 5 ] ],
     "category": "other"
    },
    
@@ -112,7 +112,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "50 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -127,7 +127,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -142,7 +142,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -157,7 +157,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -172,7 +172,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "40 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -187,7 +187,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -202,7 +202,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -217,7 +217,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -232,7 +232,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -247,7 +247,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -262,7 +262,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -277,7 +277,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -292,7 +292,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "40 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -307,7 +307,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -322,7 +322,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -337,7 +337,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -352,7 +352,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -367,7 +367,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -382,7 +382,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -397,7 +397,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4] ],
     "category": "other"
   },
     
@@ -412,12 +412,9 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4] ],
     "category": "other"
   },
-  
-  
-  
   
   
   {
@@ -431,7 +428,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -449,7 +446,7 @@
     "material": [ "cotton", "kevlar" ],
     "weight": "2267 g",
     "volume": "60 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 5 ] ],
     "category": "other"
   },
   
@@ -466,7 +463,7 @@
     "material": [ "cotton" ],
     "weight": "2267 g",
     "volume": "80 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -481,7 +478,7 @@
     "material": [ "cotton" ],
     "weight": "774 g",
     "volume": "400 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -496,7 +493,7 @@
     "material": [ "cotton" ],
     "weight": "774 g",
     "volume": "400 L",
-    "flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "category": "other"
   },
   
@@ -505,7 +502,7 @@
     "id": "astolfo_bean",
     "type": "TOOL",
     "name": { "str": "Bean Plushie" },
-    "description": "This is a talking plushie, round and plump. Its soft, but something feels wrong here.",
+    "description": "This is a talking plushie, round and plump. Its soft, pink-haired, and has a cutesy voice, but... something feels wrong here.",
     "weight": "907 g",
     "volume": "750 ml",
     "price": "20 USD",
@@ -517,7 +514,7 @@
     "charges_per_use": 1,
     "turns_per_charge": 20,
     "use_action": "DOLLCHAT",
-	"flags": [ "SLEEP_AID" ],
+    "qualities": [ [ "SLEEP_AID", 4 ] ],
     "magazines": [
       [
         "battery",
