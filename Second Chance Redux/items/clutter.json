@@ -502,7 +502,7 @@
     "id": "astolfo_bean",
     "type": "TOOL",
     "name": { "str": "Bean Plushie" },
-    "description": "This is a talking plushie, round and plump. Its soft, pink-haired, and has a cutesy voice, but... something feels wrong here.",
+    "description": "This is a talking plushie, round and plump. It's soft, pink-haired, and has a cutesy voice, but... something feels wrong here.",
     "weight": "907 g",
     "volume": "750 ml",
     "price": "20 USD",
