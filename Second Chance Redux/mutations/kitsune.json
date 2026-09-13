@@ -89,7 +89,7 @@
     "id": "SMELLY_FOXMUSK",
     "name": { "str": "Fox Musk" },
     "points": -4,
-    "description": "You have an exceptionally strong odor that makex you incredibly easy to track.",
+    "description": "You have an exceptionally strong odor that makes you incredibly easy to track.",
     "starting_trait": false,
     "types": [ "SCENT" ],
     "scent_intensity": 3200,
