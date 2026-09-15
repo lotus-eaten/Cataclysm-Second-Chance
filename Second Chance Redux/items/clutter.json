@@ -12,7 +12,7 @@
     "weight": "514 g",
     "volume": "500 ml",
     "qualities": [ [ "SLEEP_AID", 2 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   
@@ -29,7 +29,7 @@
     "weight": "514 g",
     "volume": "1 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
 
 
@@ -46,7 +46,7 @@
     "weight": "514 g",
     "volume": "1 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   
@@ -63,7 +63,7 @@
     "weight": "514 g",
     "volume": "500 ml",
     "qualities": [ [ "SLEEP_AID", 1 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
 
@@ -80,7 +80,7 @@
     "weight": "514 g",
     "volume": "250 ml",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
 
 
@@ -98,7 +98,7 @@
     "weight": "4534 g",
     "volume": "300 L",
     "qualities": [ [ "SLEEP_AID", 5 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
    },
    
    {
@@ -113,7 +113,7 @@
     "weight": "2267 g",
     "volume": "50 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -128,7 +128,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -143,7 +143,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -158,7 +158,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -173,7 +173,7 @@
     "weight": "2267 g",
     "volume": "40 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -188,7 +188,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -203,7 +203,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -218,7 +218,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -233,7 +233,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -248,7 +248,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -263,7 +263,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -278,7 +278,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -293,7 +293,7 @@
     "weight": "2267 g",
     "volume": "40 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -308,7 +308,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -323,7 +323,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -338,7 +338,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -353,7 +353,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -368,7 +368,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -383,7 +383,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -398,7 +398,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
     
   {
@@ -413,7 +413,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   
@@ -429,7 +429,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   
@@ -447,7 +447,7 @@
     "weight": "2267 g",
     "volume": "60 L",
     "qualities": [ [ "SLEEP_AID", 5 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   
@@ -464,7 +464,7 @@
     "weight": "2267 g",
     "volume": "80 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -479,7 +479,7 @@
     "weight": "774 g",
     "volume": "400 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   {
@@ -494,7 +494,7 @@
     "weight": "774 g",
     "volume": "400 L",
     "qualities": [ [ "SLEEP_AID", 4 ] ],
-    "category": "other"
+    "category": "scrap_fabric"
   },
   
   
